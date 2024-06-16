@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [" KH35 "];
+const statusMessages = ["<3"];
 
 
 let currentIndex = 0;
