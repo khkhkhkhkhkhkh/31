@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["⚡Project | ⊣FRG⊦","📋 !kayıt | ⊣FRG⊦"];
+const statusMessages = ["⚡Project | ⊣FRG⊦","📋 !verify | ⊣FRG⊦"];
 
 
 let currentIndex = 0;
