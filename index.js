@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [":discordtop_1: Project | ⊣FRG⊦","📋 !verify | ⊣FRG⊦"];
+const statusMessages = [":discordtop1_: Project | ⊣FRG⊦","📋 !verify | ⊣FRG⊦"];
 
 
 let currentIndex = 0;
